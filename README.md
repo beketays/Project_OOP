@@ -27,6 +27,8 @@ courses, sign attendance, rate the teacher, view the courses/transcript/marks/cl
 
 
 
+
+
 ## The main part
 
 ### Diagrams 
@@ -40,6 +42,9 @@ A use case diagram in UML is a diagram that reflects the relationships between a
 ### CLASS Diagrams
 
 A class diagram is a structural diagram of the UML description language that shows a simplified structure of the hierarchy of system classes, their interactions, attributes, methods, interfaces, and the relationships between them.
+
+
+
 
 
 
