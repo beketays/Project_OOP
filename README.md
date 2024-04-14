@@ -3,7 +3,7 @@
 
 ### About the project 
 
-University system can do:
+#### University system can do:
 
 - All users can change language, log in log out and see the news.
 
