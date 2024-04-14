@@ -31,15 +31,15 @@ courses, sign attendance, rate the teacher, view the courses/transcript/marks/cl
 
 ## The main part
 
-### Diagrams 
+#### Diagrams 
 
 A diagram is a visualization tool that allows you to display aspects of a system, as well as the interactions and messaging between its various objects. These diagrams show detailed information about the sequence of actions, events and communications, making it easy to track the timing aspects of the system. Every time we changed parts of the code, we didn't forget to adjust the diagrams.
 
-### Use Case 
+#### Use Case 
 
 A use case diagram in UML is a diagram that reflects the relationships between actors and use cases and is an integral part of a use case model that allows you to describe a system at a conceptual level. Below we have presented our use case diagram
 
-### CLASS Diagrams
+#### CLASS Diagrams
 
 A class diagram is a structural diagram of the UML description language that shows a simplified structure of the hierarchy of system classes, their interactions, attributes, methods, interfaces, and the relationships between them.
 
